@@ -13,37 +13,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a passionate <b className="purple">Principal Engineer</b> specializing in DevOps and Site Reliability Engineering. 
+              I love transforming complex infrastructure challenges into scalable, automated solutions that drive business value.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Docker, Kubernetes, Terraform, and Cloud Architecture (AWS/Azure){" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — with extensive experience in building CI/CD pipelines and implementing SRE best practices.
               <br />
               <br />
-              My key areas of interest include developing
+              My key areas of expertise include
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Infrastructure as Code, Continuous Deployment, Site Reliability Engineering,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and leading DevOps transformations that deliver measurable business impact.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              I'm passionate about building robust systems using
+              <b className="purple"> Kubernetes </b> and modern DevOps tools like{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Terraform, ArgoCD, and Grafana</b>.
               </i>
             </p>
           </Col>
